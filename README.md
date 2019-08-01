@@ -1,4 +1,8 @@
-# tailwindcss-twitter-template
+# Tailwind CSS Twitter Template
+A Vue CLI project with Tailwind CSS to Twitter clone. The main goal of this project is to try creating Twitter clone without writing a single line of custom CSS code.
+
+## Demo
+[See the live examples on Netlify &rarr;](https://tailwindcss-twitter.netlify.com/)
 
 ## Project setup
 ```
@@ -15,15 +19,7 @@ yarn run serve
 yarn run build
 ```
 
-### Run your tests
-```
-yarn run test
-```
-
 ### Lints and fixes files
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
